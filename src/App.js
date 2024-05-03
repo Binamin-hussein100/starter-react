@@ -1,13 +1,16 @@
-import logo from './logo.svg';
 import './App.css';
 import ContactForm from './components/form';
-
+import HomePage from './components/home';
+import Navbar from './components/navbar';
+import FAQComponent from './components/faq';
 
 function App() {
 
+   console.log("render")
   return (
-    <div className='home'>
-      <ContactForm/>
+    <div>
+      <Navbar/>
+     
     </div>
     
 

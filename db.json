@@ -1,0 +1,203 @@
+[
+    {
+      "service": "Construction and Renovation Services",
+      "description": "Complete construction and renovation solutions for residential, commercial, and industrial projects.",
+      "location": "Nationwide",
+      "contact": {
+        "phone": "123-456-7890",
+        "email": "info@constructioncompany.com",
+        "website": "http://www.constructioncompany.com"
+      }
+    },
+    {
+      "service": "Electrical Contracting",
+      "description": "Installation, repair, and maintenance of electrical systems, wiring, and fixtures.",
+      "location": "Local (City/Region)",
+      "contact": {
+        "phone": "987-654-3210",
+        "email": "electric@contractor.com",
+        "website": "http://www.electricalcontractor.com"
+      }
+    },
+    {
+      "service": "Plumbing Services",
+      "description": "Comprehensive plumbing solutions including repairs, installations, and maintenance.",
+      "location": "Statewide",
+      "contact": {
+        "phone": "555-123-4567",
+        "email": "contact@plumbingservices.com",
+        "website": "http://www.plumbingservices.com"
+      }
+    },
+    {
+      "service": "HVAC Installation and Repair",
+      "description": "Installation, repair, and maintenance of heating, ventilation, and air conditioning systems.",
+      "location": "Regional (Multiple States)",
+      "contact": {
+        "phone": "111-222-3333",
+        "email": "info@hvaccompany.com",
+        "website": "http://www.hvaccompany.com"
+      }
+    },
+    {
+      "service": "Roofing Services",
+      "description": "Roof repair, replacement, and maintenance services for residential and commercial properties.",
+      "location": "Local (City/Region)",
+      "contact": {
+        "phone": "444-555-6666",
+        "email": "roofing@services.com",
+        "website": "http://www.roofingservices.com"
+      }
+    },
+    {
+      "service": "Painting and Decorating",
+      "description": "Interior and exterior painting, wall covering, and decorative finishes for homes and businesses.",
+      "location": "Nationwide",
+      "contact": {
+        "phone": "777-888-9999",
+        "email": "info@paintingcompany.com",
+        "website": "http://www.paintingcompany.com"
+      }
+    },
+    {
+      "service": "Landscaping and Garden Design",
+      "description": "Custom landscaping design, installation, and maintenance services.",
+      "location": "Local (City/Region)",
+      "contact": {
+        "phone": "123-456-7890",
+        "email": "info@landscapingcompany.com",
+        "website": "http://www.landscapingcompany.com"
+      }
+    },
+    {
+      "service": "Carpentry and Woodworking",
+      "description": "Custom carpentry, woodworking, and cabinetry services for residential and commercial projects.",
+      "location": "Local (City/Region)",
+      "contact": {
+        "phone": "987-654-3210",
+        "email": "info@carpentryservices.com",
+        "website": "http://www.carpentryservices.com"
+      }
+    },
+    {
+      "service": "Flooring Installation and Restoration",
+      "description": "Installation, repair, and restoration of hardwood, tile, laminate, and other flooring types.",
+      "location": "Statewide",
+      "contact": {
+        "phone": "555-123-4567",
+        "email": "flooring@services.com",
+        "website": "http://www.flooringservices.com"
+      }
+    },
+    {
+      "service": "Concrete and Masonry Work",
+      "description": "Concrete pouring, repair, and masonry services for residential and commercial projects.",
+      "location": "Regional (Multiple States)",
+      "contact": {
+        "phone": "111-222-3333",
+        "email": "info@concretecompany.com",
+        "website": "http://www.concretecompany.com"
+      }
+    },
+    {
+      "service": "Waterproofing and Sealing",
+      "description": "Waterproofing solutions for basements, foundations, roofs, and other structures.",
+      "location": "Nationwide",
+      "contact": {
+        "phone": "444-555-6666",
+        "email": "waterproofing@company.com",
+        "website": "http://www.waterproofingcompany.com"
+      }
+    },
+    {
+      "service": "Demolition Services",
+      "description": "Safe and efficient demolition services for residential, commercial, and industrial properties.",
+      "location": "Local (City/Region)",
+      "contact": {
+        "phone": "777-888-9999",
+        "email": "info@demolitioncompany.com",
+        "website": "http://www.demolitioncompany.com"
+      }
+    },
+    {
+      "service": "Excavation and Site Preparation",
+      "description": "Excavation, grading, and site preparation services for construction projects.",
+      "location": "Regional (Multiple States)",
+      "contact": {
+        "phone": "123-456-7890",
+        "email": "info@excavationcompany.com",
+        "website": "http://www.excavationcompany.com"
+      }
+    },
+    {
+      "service": "Interior Design and Remodeling",
+      "description": "Custom interior design and remodeling services for residential and commercial properties.",
+      "location": "Nationwide",
+      "contact": {
+        "phone": "987-654-3210",
+        "email": "info@interiordesigncompany.com",
+        "website": "http://www.interiordesigncompany.com"
+      }
+    },
+    {
+      "service": "Pest Control Services",
+      "description": "Safe and effective pest control solutions for homes and businesses.",
+      "location": "Local (City/Region)",
+      "contact": {
+        "phone": "555-123-4567",
+        "email": "pestcontrol@services.com",
+        "website": "http://www.pestcontrolservices.com"
+      }
+    },
+    {
+      "service": "Security Systems Installation",
+      "description": "Installation of security systems, CCTV cameras, and access control systems.",
+      "location": "Nationwide",
+      "contact": {
+        "phone": "111-222-3333",
+        "email": "security@installation.com",
+        "website": "http://www.securityinstallation.com"
+      }
+    },
+    {
+      "service": "Audio-Visual Systems Installation",
+      "description": "Installation of audio-visual systems, home theaters, and smart home automation systems.",
+      "location": "Local (City/Region)",
+      "contact": {
+        "phone": "444-555-6666",
+        "email": "av@installation.com",
+        "website": "http://www.avinstallation.com"
+      }
+    },
+    {
+      "service": "Solar Panel Installation",
+      "description": "Installation of solar panels and renewable energy systems for residential and commercial properties.",
+      "location": "Statewide",
+      "contact": {
+        "phone": "777-888-9999",
+        "email": "solar@installation.com",
+        "website": "http://www.solarinstallation.com"
+      }
+    },
+    {
+      "service": "Window and Door Installation",
+      "description": "Installation of windows, doors, and skylights for residential and commercial properties.",
+      "location": "Regional (Multiple States)",
+      "contact": {
+        "phone": "123-456-7890",
+        "email": "windows@installation.com",
+        "website": "http://www.windowinstallation.com"
+      }
+    },
+    {
+      "service": "Home Automation Systems Integration",
+      "description": "Integration of smart home automation systems for convenience, security, and energy efficiency.",
+      "location": "Nationwide",
+      "contact": {
+        "phone": "987-654-3210",
+        "email": "automation@integration.com",
+        "website": "http://www.homeautomationintegration.com"
+      }
+    }
+  ]
+  

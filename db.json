@@ -1,5 +1,5 @@
-[
-    {
+{
+  "contracts":[  {
       "service": "Construction and Renovation Services",
       "description": "Complete construction and renovation solutions for residential, commercial, and industrial projects.",
       "location": "Nationwide",
@@ -198,6 +198,5 @@
         "email": "automation@integration.com",
         "website": "http://www.homeautomationintegration.com"
       }
+    }]
     }
-  ]
-  

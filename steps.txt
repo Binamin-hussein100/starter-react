@@ -1,0 +1,10 @@
+ => Communication with the server using useEffect and useState
+ Create a state
+ Use the useEffect to fetch
+ Connect the data that we get connected to the state 
+ => React routing
+  Installation of the router
+  Add browser router to index.js
+  Adding routes to the navbar via App.js
+  Add links to the navbar
+ => Nested Routing.

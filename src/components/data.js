@@ -5,7 +5,7 @@ const Data = () =>{
     const [data,setData] = useState([]);
     
     useEffect(()=>{
-        fetch("http://localhost:3000/")
+        fetch("http://localhost:3000/contracts")
         .then((res)=>res.json())
         .then((data)=>setData(data))
     },[])
@@ -13,7 +13,14 @@ const Data = () =>{
     return(
         <>
             <h1>Hello Data</h1>
+        {data.map(i => (
+            <div>
+                <h3>{i.service}</h3>
+                <p>{i.description}</p>
+                <p>{i.location}</p>
 
+            </div>
+        ))}
            
 
         </>

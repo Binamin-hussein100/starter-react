@@ -1,3 +1,6 @@
  => Communication with the server using useEffect and useState
+ Create a state
+ Use the useEffect to fetch
+ Connect the data that we get connected to the state 
  => React routing 
  => Nested Routing.
